@@ -1,0 +1,2 @@
+This repository is dedicated to store the default projection matrix of sweep library, available at https://pypi.org/project/sweep/.
+SWeeP is a method to representing large biological sequences datasets in compact vectors, described in the article at https://doi.org/10.1038/s41598-019-55627-4.
